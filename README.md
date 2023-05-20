@@ -33,11 +33,11 @@ Reach me at: @gmail.com
 ---
 
 ### :link: Quick Links
-LinkedIn : https://www.linkedin.com/in/himeshkohad/
+LinkedIn : https://www.linkedin.com/in/manikiranpeketi/
 
-Leetcode: https://leetcode.com/Himesh_Kohad/
+Leetcode: https://leetcode.com/mkpeketi0502/
 
-HackerRank: https://www.hackerrank.com/HimeshKohad
+HackerRank: https://www.hackerrank.com/mkpeketi0502
 
 ---
 
